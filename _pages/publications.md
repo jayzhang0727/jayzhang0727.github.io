@@ -11,11 +11,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Find full list of publications via [Google scholar](https://scholar.google.com/citations?user=YCR4koUAAAAJ&hl=en). <br>
+Find full list of publications via [Google Scholar](https://scholar.google.com/citations?user=YCR4koUAAAAJ&hl=en). <br>
 
 # Research Areas
 
-## Machine learning and Deep Learning <br>
+## Machine Learning and Deep Learning <br>
 
 [**Post-training Quantization for Neural Networks with Provable Guarantees**]() <br>
 Code: [GitHub](https://github.com/YixuanSeanZhou/Quantized_Neural_Nets)<br>
