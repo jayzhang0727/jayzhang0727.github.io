@@ -17,15 +17,15 @@ Find full list of publications via [Google Scholar](https://scholar.google.com/c
 
 ## Machine Learning and Deep Learning <br>
 
-[**Post-training Quantization for Neural Networks with Provable Guarantees**]() <br>
+[**Post-training Quantization for Neural Networks with Provable Guarantees**](https://arxiv.org/abs/2201.11113) <br>
 Code: [GitHub](https://github.com/YixuanSeanZhou/Quantized_Neural_Nets)<br>
 Authors: **Jinjie Zhang**, Yixuan Zhou, and Rayan Saab <br>
-Journal: *arXiv (to appear)*, 2022. <br>
+Journal: *arXiv:2201.11113*, 2022. <br>
 
 [**Sigma-Delta and Distributed Noise-Shaping Quantization Methods for Random Fourier Features**](https://arxiv.org/abs/2106.02614) <br>
 Code: [GitHub](https://github.com/jayzhang0727/Sigma-Delta-and-Distributed-Noise-Shaping-Quantization-Methods-for-Random-Fourier-Features)<br>
 Authors: **Jinjie Zhang**, Alexander Cloninger, Rayan Saab <br>
-Journal: *arXiv preprint arXiv:2106.02614*, 2021. <br>
+Journal: *arXiv:2106.02614*, 2021. <br>
 
 [**Faster Binary Embeddings for Preserving Euclidean Distances**](https://openreview.net/forum?id=YCXrx6rRCXO) <br>
 Code: [GitHub](https://github.com/jayzhang0727/Faster-Binary-Embeddings-for-Preserving-Euclidean-Distances)<br>
