@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-I'm open to new opportunities in machine learning and deep learning research, as well as their applications in industry. For anyone who is interested, here is my detailed [resume](https://jayzhang0727.github.io/files/Jinjie_Zhang_CV.pdf) (last updated on 01/25/2022).
-
+I am actively seeking for full time opportunities in 2023, including applied scientist, data scientist, research scientist, and machine learning engineer. For anyone who is interested, here is my detailed [resume](https://jayzhang0727.github.io/files/Jinjie_Zhang_CV.pdf) (last updated on 10/07/2022).
 
