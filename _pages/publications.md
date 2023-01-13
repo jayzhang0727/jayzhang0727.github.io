@@ -20,7 +20,7 @@ Find full list of publications via [Google Scholar](https://scholar.google.com/c
 [**Post-training Quantization for Neural Networks with Provable Guarantees**](https://arxiv.org/abs/2201.11113) <br>
 Code: [GitHub](https://github.com/YixuanSeanZhou/Quantized_Neural_Nets)<br>
 Authors: **Jinjie Zhang**, Yixuan Zhou, and Rayan Saab <br>
-Journal: *arXiv:2201.11113*, 2022. <br>
+Journal: *Accepted by SIAM Journal on Mathematics of Data Science (SIMODS)*, appear soon in 2023. <br>
 
 [**Sigma-Delta and Distributed Noise-Shaping Quantization Methods for Random Fourier Features**](https://arxiv.org/abs/2106.02614) <br>
 Code: [GitHub](https://github.com/jayzhang0727/Sigma-Delta-and-Distributed-Noise-Shaping-Quantization-Methods-for-Random-Fourier-Features)<br>
