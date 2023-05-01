@@ -12,4 +12,3 @@ I am a fifth year Ph.D. candidate in [applied mathematics](https://math.ucsd.edu
 
 I obtained my M.S. degree in [statistics](https://stat.uchicago.edu) at the University of Chicago in 2018 where I was supervised by [Lek-Heng Lim](https://www.stat.uchicago.edu/~lekheng/). Before that, I received my B.S. degree in information and computation science at Beijing Jiaotong University (a.k.a. Northern Jiaotong University) in 2016.
 
-I am actively seeking for full time opportunities in 2023, including applied scientist, data scientist, research scientist, and machine learning engineer. My [CV](https://jayzhang0727.github.io/files/Jinjie_Zhang_CV.pdf).
