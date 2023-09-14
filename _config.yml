@@ -86,7 +86,7 @@ author:
   avatar           : "Jinjie Zhang.jpeg"
   bio              : "AI/ML Engineer @ GSK AI"
   location         : "Seattle, WA & San Francisco, CA"
-  employer         : "GlaxoSmithKline (GSK)"
+#  employer         : "GlaxoSmithKline (GSK)"
 #   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YCR4koUAAAAJ&hl=en"
   email            : "jiz003@ucsd.edu"
