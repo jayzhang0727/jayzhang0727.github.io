@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Jinjie Zhang"
   avatar           : "Jinjie Zhang.jpeg"
-  bio              : "PhD candidate in applied mathematics @ UCSD"
-  location         : "San Diego, CA"
-#   employer         :
+  bio              : "AI/ML Engineer @ GSK AI"
+  location         : "Seattle, WA & San Francisco, CA"
+  employer         : "GlaxoSmithKline (GSK)"
 #   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YCR4koUAAAAJ&hl=en"
   email            : "jiz003@ucsd.edu"
